@@ -1,0 +1,17 @@
+{
+  "name": "webflowly",
+  "version": "0.0.1",
+  "description": "An all-inclusive Webflow package featuring A to Z APIs and utilities 🛠️",
+  "main": "index.ts",
+  "author": "Azwedo Developers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Azwedo/azwebflow"
+  },
+  "keywords": [
+    "webflow",
+    "designer-api",
+    "utils"
+  ]
+}

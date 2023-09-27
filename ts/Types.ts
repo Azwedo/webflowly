@@ -1,0 +1,1 @@
+export type WebflowMessageTypes = 'Success' | 'Error' | 'Info'
